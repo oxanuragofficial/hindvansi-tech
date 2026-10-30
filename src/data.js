@@ -119,7 +119,7 @@ export const projects = [
     summary: 'A creative agency-style front-end experience exploring bold typography, immersive video, animation and interactive website elements.',
     note: 'A study in oversized type, a full-screen video background and a custom cursor. A practice project, not a client site.',
     tech: ['HTML', 'CSS', 'JavaScript', 'Vimeo embed'],
-    live: 'https://oxanurag.github.io/projectnamma/',
+    live: 'https://oxanuragofficial.github.io/projectnamma/',
     repo: 'https://github.com/oxanuragofficial/projectnamma',
     image: 'namma',
     mobile: 'm-namma',
